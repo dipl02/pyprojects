@@ -7,3 +7,4 @@ def randgen(inp):
     print(z)
 
 randgen(len)
+#test
